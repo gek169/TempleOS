@@ -1,4 +1,9 @@
-                           TempleOS
+FORK OF TEMPLEOS ON 10/17/2018
+
+Because this is an internet legend
+
+
+TempleOS
 
 You can't do much until you burn a TempleOS CD/DVD from the ISO file
 and boot it, or you aim your virtual machine's CD/DVD at the ISO file
